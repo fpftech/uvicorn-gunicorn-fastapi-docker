@@ -1,0 +1,4 @@
+fastapi==0.42.0
+uvicorn==0.10.0
+aiokafka==0.5.2
+aiologger==0.4.0
